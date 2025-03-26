@@ -12471,8 +12471,8 @@ msgstr "Wenn diese Option aktiviert ist, wird die Benachrichtigung in der Dropdo
 #. Description of the 'Enable Password Policy' (Check) field in DocType 'System
 #. Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
-msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 2 being medium strong and 4 being very strong."
-msgstr "Falls aktiviert, wird die Passwortstärke auf der Grundlage des Wertes Minimum Password Score erzwungen. Ein Wert von 2 ist mittelstark und 4 ist sehr stark."
+msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 1 being very weak and 4 being very strong."
+msgstr "Falls diese Option aktiviert ist, wird die Passwortstärke auf der Grundlage des Minimum Password Score Wertes erzwungen. Ein Wert von 1 bedeutet sehr schwach und 4 sehr stark."
 
 #. Description of the 'Bypass Two Factor Auth for users who login from
 #. restricted IP Address' (Check) field in DocType 'System Settings'

@@ -14682,8 +14682,8 @@ msgstr "Nếu được bật, thông báo sẽ hiển thị trong menu thả xu�
 #. Settings'
 #: core/doctype/system_settings/system_settings.json
 msgctxt "System Settings"
-msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 2 being medium strong and 4 being very strong."
-msgstr "Nếu được bật, độ mạnh của mật khẩu sẽ được thi hành dựa trên giá trị điểm mật khẩu tối thiểu. một giá trị bằng 2 trở nên mạnh ở mức trung bình và bằng 4 là rất mạnh"
+msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 1 being very weak and 4 being very strong."
+msgstr "Nếu được bật, độ mạnh của mật khẩu sẽ được thi hành dựa trên giá trị điểm mật khẩu tối thiểu. một giá trị 1 là rất yếuvà bằng 4 là rất mạnh"
 
 #. Description of the 'Bypass Two Factor Auth for users who login from
 #. restricted IP Address' (Check) field in DocType 'System Settings'

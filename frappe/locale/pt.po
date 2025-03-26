@@ -14682,8 +14682,8 @@ msgstr "Se ativada, a notificação aparecerá na lista suspensa de notificaçõ
 #. Settings'
 #: core/doctype/system_settings/system_settings.json
 msgctxt "System Settings"
-msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 2 being medium strong and 4 being very strong."
-msgstr "Se ativado, a força da senha será aplicada com base no valor Minimum Password Score. Um valor de 2 sendo médio forte e 4 sendo muito forte."
+msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 1 being very weak and 4 being very strong."
+msgstr "Se ativado, a força da senha será aplicada com base no valor Minimum Password Score. Um valor de 1 sendo muito fraco e 4 sendo muito forte."
 
 #. Description of the 'Bypass Two Factor Auth for users who login from
 #. restricted IP Address' (Check) field in DocType 'System Settings'

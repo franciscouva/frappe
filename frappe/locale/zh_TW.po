@@ -14682,8 +14682,8 @@ msgstr ""
 #. Settings'
 #: core/doctype/system_settings/system_settings.json
 msgctxt "System Settings"
-msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 2 being medium strong and 4 being very strong."
-msgstr "如果啟用，密碼強度將根據最低密碼分數值執行。值2為中等強度，4為非常強。"
+msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 1 being very weak and 4 being very strong."
+msgstr "如果啟用，密碼強度將根據最低密碼分數值執行。值為1非常弱，數值為 4非常強。"
 
 #. Description of the 'Bypass Two Factor Auth for users who login from
 #. restricted IP Address' (Check) field in DocType 'System Settings'

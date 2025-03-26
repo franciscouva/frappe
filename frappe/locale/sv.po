@@ -12468,8 +12468,8 @@ msgstr "Om aktiverat kommer meddelandet att visas i rullgardin meny för meddela
 #. Description of the 'Enable Password Policy' (Check) field in DocType 'System
 #. Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
-msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 2 being medium strong and 4 being very strong."
-msgstr "Om aktiverat kommer lösenord styrka att tillämpas baserat på minimum lösenord värde.Värde av 2 är medelstark och 4 är väldigt stark."
+msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 1 being very weak and 4 being very strong."
+msgstr "Om aktiverat kommer lösenord styrka att tillämpas baserat på minimum lösenord värde. Värde på 1 är mycket svagt och 4 är väldigt stark."
 
 #. Description of the 'Bypass Two Factor Auth for users who login from
 #. restricted IP Address' (Check) field in DocType 'System Settings'

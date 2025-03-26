@@ -12279,8 +12279,8 @@ msgstr "اگر فعال باشد، اعلان در منوی کشویی اعلا�
 #. Description of the 'Enable Password Policy' (Check) field in DocType 'System
 #. Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
-msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 2 being medium strong and 4 being very strong."
-msgstr "اگر فعال باشد، قدرت رمز عبور بر اساس مقدار حداقل امتیاز رمز عبور اعمال می‌شود. مقدار 2 قوی بودن متوسط و 4 بسیار قوی بودن."
+msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 1 being very weak and 4 being very strong."
+msgstr "اگر فعال باشد، قدرت رمز عبور بر اساس حداقل مقدار امتیاز رمز عبور اعمال می شود. مقدار 1 بسیار ضعیف و 4 بسیار قوی است."
 
 #. Description of the 'Bypass Two Factor Auth for users who login from
 #. restricted IP Address' (Check) field in DocType 'System Settings'

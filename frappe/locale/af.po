@@ -14682,8 +14682,8 @@ msgstr "As dit geaktiveer is, verskyn die kennisgewing in die vervolgkeuselys vi
 #. Settings'
 #: core/doctype/system_settings/system_settings.json
 msgctxt "System Settings"
-msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 2 being medium strong and 4 being very strong."
-msgstr "As dit geaktiveer is, sal die wagwoord sterkte afgedwing word op grond van die minimum wagwoord telling waarde. &#39;N Waarde van 2 is medium sterk en 4 is baie sterk."
+msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 1 being very weak and 4 being very strong."
+msgstr "As dit geaktiveer is, sal die wagwoord sterkte afgedwing word op grond van die minimum wagwoord telling waarde. &#39;N Waarde van 1 is baie swak en 4 is baie sterk."
 
 #. Description of the 'Bypass Two Factor Auth for users who login from
 #. restricted IP Address' (Check) field in DocType 'System Settings'

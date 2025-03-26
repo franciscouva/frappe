@@ -12280,8 +12280,8 @@ msgstr "في حالة التمكين ، سيظهر الإشعار في القا�
 #. Description of the 'Enable Password Policy' (Check) field in DocType 'System
 #. Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
-msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 2 being medium strong and 4 being very strong."
-msgstr "إذا تم تمكينه، سيتم فرض قوة كلمة المرور استنادا إلى قيمة الحد الأدنى لقيمة كلمة المرور. قيمة 2 كونها متوسطة قوية و 4 قوية جدا."
+msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 1 being very weak and 4 being very strong."
+msgstr "في حال تفعيل هذه الميزة، سيتم فرض قوة كلمة المرور بناءً على الحد الأدنى لقيمة كلمة المرور. القيمة ١ تعني كلمة مرور ضعيفة جدًا، والقيمة ٤ تعني كلمة مرور قوية جدًا."
 
 #. Description of the 'Bypass Two Factor Auth for users who login from
 #. restricted IP Address' (Check) field in DocType 'System Settings'

@@ -12416,8 +12416,8 @@ msgstr "Si está habilitado, la notificación se mostrará en el menú desplegab
 #. Description of the 'Enable Password Policy' (Check) field in DocType 'System
 #. Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
-msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 2 being medium strong and 4 being very strong."
-msgstr "Si está activada, la fuerza de la contraseña se aplicará en función del valor de Puntuación mínima de contraseña. Un valor de 2 siendo fuerte medio y 4 siendo muy fuerte."
+msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 1 being very weak and 4 being very strong."
+msgstr "Si está activada, la fuerza de la contraseña se aplicará en función del valor de Puntuación mínima de contraseña. Un valor de 1 siendo muy débil y 4 siendo muy fuerte."
 
 #. Description of the 'Bypass Two Factor Auth for users who login from
 #. restricted IP Address' (Check) field in DocType 'System Settings'

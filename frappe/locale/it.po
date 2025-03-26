@@ -14682,8 +14682,8 @@ msgstr "Se abilitato, la notifica verrà visualizzata nel menu a discesa delle n
 #. Settings'
 #: core/doctype/system_settings/system_settings.json
 msgctxt "System Settings"
-msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 2 being medium strong and 4 being very strong."
-msgstr "Se abilitato, la forza della password verrà eseguita in base al valore Punteggio minima password. Un valore di 2 è medio forte e 4 è molto forte."
+msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 1 being very weak and 4 being very strong."
+msgstr "Se abilitato, la forza della password verrà eseguita in base al valore Punteggio minima password. Un valore di 1 è molto debole e 4 è molto forte."
 
 #. Description of the 'Bypass Two Factor Auth for users who login from
 #. restricted IP Address' (Check) field in DocType 'System Settings'

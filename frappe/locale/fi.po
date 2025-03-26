@@ -14682,8 +14682,8 @@ msgstr "Jos tämä on käytössä, ilmoitus näkyy avattavassa ilmoitusten valik
 #. Settings'
 #: core/doctype/system_settings/system_settings.json
 msgctxt "System Settings"
-msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 2 being medium strong and 4 being very strong."
-msgstr "Jos käytössä, salasanan vahvuus pannaan täytäntöön perustuu pienin salasanan Score arvoa. Arvo 2 on keskivahva ja 4 on hyvin vahva."
+msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 1 being very weak and 4 being very strong."
+msgstr "Jos käytössä, salasanan vahvuus pannaan täytäntöön perustuu pienin salasanan Score arvoa. Arvo 1 on erittäin heikko ja 4 on hyvin vahva."
 
 #. Description of the 'Bypass Two Factor Auth for users who login from
 #. restricted IP Address' (Check) field in DocType 'System Settings'

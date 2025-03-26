@@ -12470,8 +12470,8 @@ msgstr "Ako je omogućeno, obavještenje će se pojaviti u padajućem izborniku 
 #. Description of the 'Enable Password Policy' (Check) field in DocType 'System
 #. Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
-msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 2 being medium strong and 4 being very strong."
-msgstr "Ako je omogućeno, jačina lozinke će biti nametnuta na osnovu minimalne vrijednosti lozinke. Vrijednost 2 je srednje jaka, a 4 vrlo jaka."
+msgid "If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 1 being very weak and 4 being very strong."
+msgstr "Ako je omogućeno, jačina lozinke će biti nametnuta na osnovu minimalne vrijednosti lozinke. Vrijednost 1 je vrlo slaba, a 4 vrlo jaka."
 
 #. Description of the 'Bypass Two Factor Auth for users who login from
 #. restricted IP Address' (Check) field in DocType 'System Settings'
